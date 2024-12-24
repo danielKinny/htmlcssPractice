@@ -1,0 +1,49 @@
+    p{
+        margin-top: 0px;
+        margin-bottom: 0px;
+
+    }
+    .video-title {
+        font-size: 30px;
+        font-weight:bold;
+        margin-bottom:0;
+        width: 300px;
+    }
+
+    .view-count {
+        font-size: 18px;
+        color:gray;
+        opacity: 0.8;
+        margin-top:0;
+    }
+
+    .video-author {
+        font-size: 20px;
+        color: gray;
+        opacity: 0.9;
+        margin-bottom:10px;
+    }
+
+    .video-description {
+        margin-top :10px;
+        font-size: 20px;
+        color:gray;
+        opacity: 0.8;
+        width : 300px;
+        line-height : 22px;
+    }
+
+    .apple{
+        background-color:red;
+        color: white;
+        margin-top: 100px;
+        width:290px;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        padding-right: 20px;
+        padding-left: 20px;
+    }
+
+    .span-text {
+        text-decoration : underline;
+    }
